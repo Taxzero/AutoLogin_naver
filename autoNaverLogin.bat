@@ -1,0 +1,1 @@
+"python경로" "코드파일경로\autoNaverLogin.py"
